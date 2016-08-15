@@ -148,6 +148,12 @@ h2{font-family: sophia;
   padding-top:100%;
   padding-bottom:100%;
 }
+#categories li a{
+  font-family: cour;
+  color:white;
+  margin-top: 50%;
+  margin-bottom: 50%;
+  }
 #categories li h1:after{
   font-family: cour;
   content:'';
